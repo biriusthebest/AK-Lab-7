@@ -22,9 +22,7 @@
 
 
 
-## checkpatch hello1.h
 
-![](https://github.com/Gronario/ak_lab7/blob/main/Screenshots/3.png)
 
 ## Пошук місця помилки для BUG_ON(1) за допомогою jdb
 
