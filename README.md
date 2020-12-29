@@ -20,13 +20,7 @@
 
 ![](https://github.com/Gronario/ak_lab7/blob/main/Screenshots/8.png)
 
-## checkpatch hello1.c
 
-![](https://github.com/Gronario/ak_lab7/blob/main/Screenshots/1.png)
-
-## checkpatch hello2.c
-
-![](https://github.com/Gronario/ak_lab7/blob/main/Screenshots/2.png)
 
 ## checkpatch hello1.h
 
@@ -34,4 +28,4 @@
 
 ## Пошук місця помилки для BUG_ON(1) за допомогою jdb
 
-![](https://github.com/Gronario/ak_lab7/blob/main/Screenshots/9.png)
+![](https://github.com/biriusthebest/AK-Lab-7/tree/main/Screenshots/9.png)
